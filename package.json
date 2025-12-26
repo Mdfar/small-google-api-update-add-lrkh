@@ -1,0 +1,1 @@
+{ "name": "google-api-city-expansion", "version": "1.0.0", "description": "Extension of existing Google Places API to Sheets script for Miami and Atlanta leads.", "main": "index.js", "dependencies": {}, "author": "staqlt", "license": "MIT" }
